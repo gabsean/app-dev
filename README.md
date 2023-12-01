@@ -1,24 +1,32 @@
 # app-dev
-# The Hunger Games Trilogy
+# Three Most Popular Disney Songs
 
-![The Hunger Games]
+## 1. "Let It Go" - "(Frozen)"
 
-## Overview
-*The Hunger Games* is a gripping dystopian novel series written by Suzanne Collins. Set in a post-apocalyptic world, it follows the story of Katniss Everdeen in a society where young people are forced to participate in a televised fight to the death.
+**Movie"** *Frozen*
+**Singer:** Idina Menzel as Elsa
+**Composer:** Kristen Anderson-Lopez and Robert Lopez
 
-### Main Characters
-- **Katniss Everdeen:** The resilient protagonist who volunteers for her sister in the Hunger Games.
-- **Peeta Mellark:** Katniss's fellow tribute and a master of strategy and camouflage.
-- **Gale Hawthorne:** Katniss's close friend and hunting partner from District 12.
+### Description
 
-## Plot Summary
-The series is set in the nation of Panem, which is divided into districts. Each year, a boy and a girl from each district are chosen to participate in the Hunger Games, a brutal televised event where they fight to the death until only one remains. Katniss becomes a symbol of rebellion against the oppressive Capitol.
+In the movie, Elsa sings "Let it Go" from her place of isolation. She's frustrated at the way she's been forced to hide what she is capable of and, over the course of the song, resolves to accept her powers rather than live in fear of them.
 
-### Notable Elements
-- **The Reaping:** The ceremony where tributes are chosen for the Games.
-- **Arena:** The diverse environments where the Games take place.
-- **Mockingjay:** A symbol of hope and rebellion associated with Katniss.
+## 2. "Circle of Life" - "(The Lion King)"
 
-## Why I Love It
-*The Hunger Games* is a thought-provoking series that explores themes of survival, sacrifice, and societal injustice. The character development, intense action, and the examination of the human spirit amidst adversity make it a compelling read for fans of dystopian fiction.
+**Movie:** *The Lion King*
+**Singer:** Carmen Twillie
+**Composer:** Elton John and Tim Rice
 
+### Description
+
+In the case of the context of the song, it's a creative delivery to convey the circle of life and its meaning. Circles have no beginnings or end. If we start anywhere on a circle, and follow it around, we end up in a loop coming back to where we started. The Lion King's main theme was all about the cycle of life and death, and so it is with the circles of life in pastures.
+
+## 3. "A Whole New World" - "(Aladdin)"
+
+**Movie"** *Aladdin*
+**Singer:** Brad Kane as Aladdin and Lea Salonga as Princess Jasmine
+**Composer:** Alan Menken and Tim Rice
+
+### Description
+
+Lyrically, A Whole New World describes Aladdin showing the confined princess a life of freedom and the pair's acknowledgement of their love for each other on top of that, while riding on a flying magic carpet.
